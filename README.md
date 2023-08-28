@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently building OpInCo Community
+- 🔭 I’m currently building ML Projects
 - 🌱 I’m currently learning Machine Learning , Deep Learning , BlockChain 
 - 👯 I’m looking to collaborate on anything new
 
