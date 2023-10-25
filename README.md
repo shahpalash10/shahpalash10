@@ -1,4 +1,4 @@
-### Hi, I'm Palash Shah
+ Hi, I'm Palash Shah
 
 ## A developer who sees infinite potential in  a Computer's vision
 ## https://shahpalash10.in
