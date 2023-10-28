@@ -32,7 +32,7 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=shahpalash10&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="cxyfreedom" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=shahpalash10&theme=material-palenight&hide_border=false" alt="cxyfreedom" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahpalash10&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="cxyfreedom" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahpalash10&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="shahpalash10" /></p>
 
 ![](https://github-profile-trophy.vercel.app/?username=shahpalash10&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
