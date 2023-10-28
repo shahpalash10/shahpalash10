@@ -39,6 +39,9 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C444%20hrs%2050%20mins-blue)
 
+<a href="https://github.com/shahpalash10/github-readme-activity-graph"><img alt=“Palash’s Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=shahpalash10&theme=github-compact" /></a>
+
+
 **🐱 My GitHub Data** 
 
 > 🏆 300 Contributions in the Year 2023
