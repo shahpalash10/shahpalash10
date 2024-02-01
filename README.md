@@ -1,6 +1,6 @@
 # Hi, I'm Palash Shah
 
-## A developer who sees infinite potential in  a Computer's vision
+## Change the way you look at things and then see the difference
 ## https://shahpalash10.in
 
 ## About Me
